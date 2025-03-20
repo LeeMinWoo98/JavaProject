@@ -10,4 +10,6 @@ public class U_DTO {
 	private String pw;
 	private String b_day;
 	private String name;
+	private String phone;
+	private String guest;
 }
